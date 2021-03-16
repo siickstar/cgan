@@ -1,0 +1,113 @@
+Aufgabe 1:
+Daguerrographie Kupfer und Silber jodit
+Kalotypie - Silberjodid auf papier
+
+
+Aufgabe 2:
+Innerer und Äußerer Photoelektrische effekt
+
+Innerer benutzt Halbsleitermetalle
+Äußerer benutzt normale Metalle
+
+Innerer - Photonen treffen auf Halbleitemetall und elektronen wandern von einem niedriger energetischem Band in ein Höher energetisches Band
+Äußerer - Photonen treffen auf Metall und geben elektronen in die Luft frei
+
+
+Aufgabe 3:
+CCD - Charged Coupled Devices
+CMOS - Complementary Metal Oxyde Semiconductor
+
+Aufgabe 4:
+Füllfaktor bedeutet : Der teil des Pixels welcher effektiv benutzt werden kann um Licht einzufangen
+Größerer Füllfaktor bedeutet mehr Licht und weniger Rauschen!
+
+Element für "besseren" Füllfaktor = Linse
+
+
+Aufgabe 5:
+Farbfilter - Wird in fast allen Consumer Kamera benutzt
+Prisma - wird in DSLR benutzt
+
+
+Aufgabe 6:
+Bayer Filter
+Farbfilter sind vor jedem Pixel angeordnet in einem bestimmten Muster
+
+GBGR
+RGBG
+GBGR
+
+Verhältnis Rot:Grün:Blau = 1:2:1
+
+Nachteile: 
+Pixel können nur eine Grundfarbe auswerten
+Die Anzahl der Pixel wird reduziert (Da diese im nachhinein zusammengerechnet werden) Anzahl wird halbiert
+
+Vorteile:
+Sehr genaue Farben
+Rohdaten können besser verarbeitet werden
+
+
+Aufgabe 7:
+Die Anderen Farbinformationen werden durch das zusammenrechnen (interpolieren) der umliegenden Pixel errechnet
+Der Vorgang heißt: interpolation
+
+
+Aufgabe 8:
+Die Sensorgröße wird in Zoll gemessen.
+Die Maßeinheit ist Zoll aber 1 Zoll = 16,4 mm in diesem Zusammenhang
+Vollformatsensor = 36mm x 24mm
+Name wurde von Kleinbild abgeleitet
+
+
+Aufgabe 9:
+Je Größer das Pixel desto höher ist auch die Menge an Licht die der Pixel einfangen kann (Quelität steigt)
+
+- Bei schlechtem Licht entsteht der sichtbare Nachteil : Rauschen
+
+
+Aufgabe 10:
+a) Normiert ist Cropfaktor auf Kleinbildkamers
+
+b) 400mm / x = 1,5 |  *x   /1,5   ===   x = 400/1,5    ===    x = 266,667 mm
+
+Die Brennweite ist = 266,67 mm
+
+c) Der Cropfaktor wurd DEUTLICH größer (400/24 = 16,667)
+
+
+Aufgabe 11:
+RAW : sehr sehr große Dateigröße aber das Bild ist dafürr komplett unverändert abgespeichert, ist der Nachweis auf Urheberschaft
+
+JPG : verlustbehafteter Kompimieralogrithmus : verbraucht VIEL weniger Speicherplatz, aber ist dafür auch verlustbehaftet 
+und bietet keinen Nachweis auf Urheberschaft
+
+
+Aufgabe 12:
+Abblendzeit und Empfindlichkeit (ISO)
+
+Die Empfindlichkeit (ISO) wirkt sich nicht auf die Lichtmenge der Aufnahme aus
+
+
+Aufgabe 13:
+chromatische Aberration ist das sich an scharfen kanten einer Bildes starke Farbkanten bilden (Rot, Grün oder Blau)
+
+Dies entsteht durch unsaubere Trennung des Lichtes durch die Linse.
+
+Dies kann verhindert werden in dem man ein Flintglas hinter die Linse setzt also eine ED-Linse erstellt
+
+
+Aufgabe 14:
+Phasenvergleichs-Autofokus : Passiert direkt auf dem Bildsensor ist dadurch schneller
+Kontrast-Autofokus : Passiert in der Hard und Software
+
+Phasenvergleichs-Autofokus : DSLR
+Kontrast-Autofokus : Digitalkameras
+
+
+Aufgabe 15:
+Standart : sRGB
+
+a) Bildschirm kalibrieren
+
+b) Bildschirm modus simulieren Druckausgabe "Soft Proof"
